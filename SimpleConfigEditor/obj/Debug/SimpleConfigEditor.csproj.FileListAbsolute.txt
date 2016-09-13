@@ -1,0 +1,5 @@
+c:\dropbox\projects\personal\SimpleConfigEditor\SimpleConfigEditor\bin\Debug\SimpleConfigEditor.exe.config
+c:\dropbox\projects\personal\SimpleConfigEditor\SimpleConfigEditor\bin\Debug\SimpleConfigEditor.exe
+c:\dropbox\projects\personal\SimpleConfigEditor\SimpleConfigEditor\bin\Debug\SimpleConfigEditor.pdb
+c:\dropbox\projects\personal\SimpleConfigEditor\SimpleConfigEditor\obj\Debug\SimpleConfigEditor.exe
+c:\dropbox\projects\personal\SimpleConfigEditor\SimpleConfigEditor\obj\Debug\SimpleConfigEditor.pdb
